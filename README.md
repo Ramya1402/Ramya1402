@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Ramya</h1>
+<h1 align="center">Hi 👋, I'm Ramya Ramesh!</h1>
 <h3 align="center">Passionate about Research using ML and DL to revolutionize Healthcare!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramya1402&label=Profile%20views&color=0e75b6&style=flat" alt="ramya1402" /> </p>
